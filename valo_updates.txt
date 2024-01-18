@@ -1,0 +1,4 @@
+v1.0.2
+
+- Changed snapline color
+- Fixed aimbot smooth problem

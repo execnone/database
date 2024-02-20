@@ -1,7 +1,7 @@
-v1.2
-
-Menu Update
-- Changed menu style fully
+v1.3
 
 Aimbot Update
-- Added hitbox selection in aimbot
+- Improved aimbot algorithm
+
+ESP Update
+- Fixed aimbot snapline switch
